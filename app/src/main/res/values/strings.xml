@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">GPA_fnabeela1_Calculator</string>
+    <string name="course1">"Course 1: "</string>
+    <string name="course2">"Course 2: "</string>
+    <string name="course3">"Course 3: "</string>
+    <string name="course4">"Course 4: "</string>
+    <string name="course5">"Course 5: "</string>
+    <string name="editcourse1">Enter Course 1 Grade</string>
+    <string name="editcourse2">Enter Course 2 Grade</string>
+    <string name="editcourse3">Enter Course 3 Grade</string>
+    <string name="editcourse4">Enter Course 4 Grade</string>
+    <string name="editcourse5">Enter Course 5 Grade</string>
+    <string name="buttontxt">Compute GPA</string>
 </resources>
